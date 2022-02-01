@@ -1,2 +1,3 @@
 # Traitement-Visualisation-et-Analyse-des-donn-es
-brief Perrine Thierry
+Librairies Python visualisation et analyse de données
+(brief Perrine Thierry)
